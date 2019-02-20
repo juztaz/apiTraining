@@ -1,0 +1,4 @@
+11:45:36.874 [main] DEBUG alpha.demo - Debuging
+11:45:36.877 [main] INFO  alpha.demo - Info
+11:45:36.877 [main] ERROR alpha.demo - Error
+11:45:36.877 [main] FATAL alpha.demo - Fatal
